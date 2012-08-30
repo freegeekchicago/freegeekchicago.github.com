@@ -6,3 +6,5 @@ description: ""
 {% include JB/setup %}
 
 Interesting. This could become an about page.
+
+Boo.
